@@ -1,0 +1,1 @@
+A Java Implementation of the Quine-McCluskey Method of Boolean Functions Minimization.
